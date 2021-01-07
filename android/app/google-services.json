@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "100502051235",
+    "project_id": "shot-4d487",
+    "storage_bucket": "shot-4d487.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100502051235:android:0975d6156647c69ff1e216",
+        "android_client_info": {
+          "package_name": "com.IndusValley.SHOT"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100502051235-8m503ckc70glqu7f05rnhi4pldncqq4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-0Chfem_aUA4EqjL4G8ITAtyOx0YV21c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100502051235-8m503ckc70glqu7f05rnhi4pldncqq4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
